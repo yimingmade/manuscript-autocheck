@@ -26,3 +26,7 @@ Restart Codex after installation.
 ## Dependencies
 
 The skill has no local file, script, package, or runtime dependencies.
+
+## Licence
+
+MIT License. See `LICENSE`.
