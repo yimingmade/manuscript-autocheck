@@ -1,6 +1,7 @@
-# Manuscript Autocheck Skills
+# Submit with confidence with _Autocheck_
 
-Codex skills for auditing manuscripts, tables, supplementary materials, and response-to-reviewers documents before journal submission.
+Autocheck is an LLM skill for quality-checking publication _Manuscripts_, _Tables_, _Supplementary Materials_ files (Word Document preferred) before journal submission.
+Special quality-checks are also in place for Revision submissions with additional files like _Response to Reviewers_.
 
 ## Checks At A Glance
 
