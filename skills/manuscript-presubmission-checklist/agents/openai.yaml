@@ -1,0 +1,7 @@
+interface:
+  display_name: "Manuscript Checklist"
+  short_description: "Audit manuscripts before submission"
+  default_prompt: "Use $manuscript-presubmission-checklist to audit my manuscript, tables, and supplementary materials before submission."
+
+policy:
+  allow_implicit_invocation: true
