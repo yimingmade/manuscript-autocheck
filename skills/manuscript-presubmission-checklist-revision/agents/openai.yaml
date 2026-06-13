@@ -1,0 +1,7 @@
+interface:
+  display_name: "Manuscript Revision Checklist"
+  short_description: "Audit revised manuscripts before submission"
+  default_prompt: "Use $manuscript-presubmission-checklist-revision to audit my revised manuscript, tables, supplementary materials, and response to reviewers."
+
+policy:
+  allow_implicit_invocation: true
